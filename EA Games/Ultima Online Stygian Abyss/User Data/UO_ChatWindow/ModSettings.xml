@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<UiModuleSettings xmlVersion="1.0" enabled="true" lastLoadedVersion="1.1" messagingEnabled="false">
+    <Windows>
+        <WindowSettings xmlVersion="1.0" name="ChatWindowContainer" sizeX="550.000000" sizeY="35.000000" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors>
+                <WindowAnchor xmlVersion="1.0" point="bottomleft" relativePoint="topleft" relativeTo="ChatWindowChatLogDisplay" xOffset="26.000000" yOffset="-10.000000" />
+                <WindowAnchor xmlVersion="1.0" point="bottomright" relativePoint="topright" relativeTo="ChatWindowChatLogDisplay" xOffset="2.000000" yOffset="4.000000" />
+            </Anchors>
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073752489" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073785180" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073785635" sizeX="115.712006" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073785655" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073785661" sizeX="298.637787" sizeY="33.853676" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073786013" sizeX="141.460007" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073786429" sizeX="112.442566" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787037" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787409" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787461" sizeX="112.442566" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787463" sizeX="125.742226" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787465" sizeX="51.989574" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787467" sizeX="51.989574" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787469" sizeX="51.989574" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787471" sizeX="51.989574" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787473" sizeX="51.989574" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787475" sizeX="51.989574" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787477" sizeX="51.989574" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787519" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787521" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787525" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787527" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787529" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787531" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787533" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787543" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787545" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787547" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787549" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787551" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787553" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787555" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787557" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787559" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787561" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787563" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787565" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787567" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787569" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787571" sizeX="132.996582" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787573" sizeX="90.112007" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787575" sizeX="60.416004" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787581" sizeX="90.112007" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787583" sizeX="88.261368" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787585" sizeX="58.034874" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787587" sizeX="87.052307" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787858" sizeX="145.087173" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073787860" sizeX="281.710938" sizeY="33.853676" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073788145" sizeX="115.712006" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073788149" sizeX="115.712006" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073788153" sizeX="133.120010" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073788223" sizeX="141.460007" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073788426" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073788433" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073788534" sizeX="145.087173" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073789057" sizeX="106.496002" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073789058" sizeX="106.496002" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073789059" sizeX="45.056004" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073789758" sizeX="115.712006" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073789794" sizeX="292.592468" sizeY="33.853676" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073790027" sizeX="145.087173" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073790780" sizeX="276.874695" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073790918" sizeX="295.010590" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073791094" sizeX="276.874695" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073791096" sizeX="276.874695" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073791100" sizeX="276.874695" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792336" sizeX="0.000000" sizeY="0.000000" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792338" sizeX="0.000000" sizeY="0.000000" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792424" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792426" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792430" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792431" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792434" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792435" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792438" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792439" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792442" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792443" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792446" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073792447" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073793385" sizeX="52.224003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073793387" sizeX="63.488003" sizeY="17.408001" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073794287" sizeX="103.979149" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073794294" sizeX="103.979149" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073794296" sizeX="43.526154" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073807805" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073810339" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073842437" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073843514" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073848334" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073848478" sizeX="114.860687" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073886421" sizeX="0.000000" sizeY="0.000000" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073886649" sizeX="0.000000" sizeY="0.000000" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073886652" sizeX="0.000000" sizeY="0.000000" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073888858" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073888869" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073888890" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073888917" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073888920" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073889002" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073889006" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073899089" sizeX="63.382957" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073899565" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073899572" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073899583" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073899586" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073899601" sizeX="141.116776" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902579" sizeX="53.815720" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902580" sizeX="53.815720" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902581" sizeX="53.815720" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902582" sizeX="53.815720" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902583" sizeX="53.815720" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902584" sizeX="53.815720" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902588" sizeX="53.815720" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902937" sizeX="112.415054" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902949" sizeX="112.415054" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073902960" sizeX="166.230774" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073903202" sizeX="112.415054" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904734" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904735" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904738" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904739" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904740" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904766" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904773" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904786" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904788" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_1073904789" sizeX="215.262878" sizeY="17.938572" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_20679" sizeX="126.951286" sizeY="16.926838" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="false">
+            <Anchors />
+        </WindowSettings>
+        <WindowSettings xmlVersion="1.0" name="OverheadTextWindow_4294967296" sizeX="300.000000" sizeY="50.000000" movable="false" alpha="1.000000" fontAlpha="1.000000" scale="1.000000" showing="true">
+            <Anchors />
+        </WindowSettings>
+    </Windows>
+</UiModuleSettings>

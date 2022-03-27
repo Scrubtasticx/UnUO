@@ -1,0 +1,171 @@
+<!DOCTYPE profile>
+<profile>
+ <data name="CommandPrefix">0x0</data>
+ <data name="UseObjectsQueue">True</data>
+ <data name="ShowCorpseNames">True</data>
+ <data name="ShowCreatureNames">False</data>
+ <data name="OpenCorpses">True</data>
+ <data name="OpenCorpsesRange">0x2</data>
+ <data name="ShowMobileHits">False</data>
+ <data name="PositionInTitle">False</data>
+ <data name="ForceResolution">False</data>
+ <data name="GameWindowWidth">0x320</data>
+ <data name="GameWindowHeight">0x258</data>
+ <data name="FilterLight">True</data>
+ <data name="FilterMusic">True</data>
+ <data name="FilterBardsMusic">False</data>
+ <data name="FilterSound">True</data>
+ <data name="FilterWeather">False</data>
+ <data name="FilterSeason">False</data>
+ <data name="FixedSeason">0x0</data>
+ <data name="FilterDeath">False</data>
+ <data name="FilterRepeatedMessages">False</data>
+ <data name="FilterOthersSpeechColor">False</data>
+ <data name="FilterSnoopingMessages">True</data>
+ <data name="FilterTradeWindow">False</data>
+ <data name="FilterRewardGump">False</data>
+ <data name="HandsBeforePotions">True</data>
+ <data name="HandsBeforeCasting">True</data>
+ <data name="SmartTarget">0x3</data>
+ <data name="SmartTargetRange">False</data>
+ <data name="SmartTargetRangeValue">0xc</data>
+ <data name="HighlightCurrentTarget">False</data>
+ <data name="BlockInvalidHeal">False</data>
+ <data name="ActionDelay">0x258</data>
+ <data name="UseObjectsLimit">0x5</data>
+ <data name="TargetShare">0x1</data>
+ <data name="MountSerial">0x706</data>
+ <data name="BladeSerial">0xffffffff</data>
+ <data name="BoneCutter">False</data>
+ <data name="AutoMount">False</data>
+ <data name="AutoBandage">True</data>
+ <data name="AutoBandageTarget">0x4</data>
+ <data name="AutoBandageScale">False</data>
+ <data name="AutoBandageCount">False</data>
+ <data name="AutoBandageStart">True</data>
+ <data name="AutoBandageStartValue">0x5f</data>
+ <data name="AutoBandageDelay">0x157c</data>
+ <data name="AutoBandageFormula">True</data>
+ <data name="AutoBandageHidden">False</data>
+ <data name="OpenDoors">True</data>
+ <data name="UseDoors">False</data>
+ <data name="SpellsColor">False</data>
+ <data name="SpellsMode">0x2</data>
+ <data name="SpellsTargetShare">0x0</data>
+ <data name="OpenDoorsMode">0x0</data>
+ <data name="OpenCorpsesMode">0x3</data>
+ <data name="ShowMobileFlags">False</data>
+ <data name="StateHighlightMode">0x0</data>
+ <data name="StaticFields">False</data>
+ <data name="CountStealthSteps">True</data>
+ <data name="FriendsListOnly">False</data>
+ <data name="FriendsParty">False</data>
+ <data name="MoveConflictingItems">False</data>
+ <data name="CustomCaption">True</data>
+ <data name="CustomCaptionMode">0x1</data>
+ <data name="CustomCaptionText">UO - $name $statusbar - $hits/$mana/$stam %cntr-2 %cntr %cntr-3 %cntr-4 %cntr-5 %cntr-6 %cntr-7 %cntr-8 %cntr-12 %cntr-10 %cntr-11 %cntr-13 %cntr-14 %cntr-9 %cntr-15</data>
+ <data name="WarnCounters">True</data>
+ <data name="WarnCountersValue">0x5</data>
+ <data name="HighlightReagents">True</data>
+ <data name="DisplayCountersName">False</data>
+ <data name="CaptionUseNotoHue">True</data>
+ <data name="CaptionUseNotoHue">True</data>
+ <data name="DisplayCountersImage">True</data>
+ <data name="FilterKarmaMessages">False</data>
+ <data name="FilterFameMessages">False</data>
+ <data name="PreventDismount">False</data>
+ <data name="PreventAttackFriends">False</data>
+ <data name="AutoSearchContainers">True</data>
+ <data name="AutoAcceptParty">True</data>
+ <data name="StaticFieldsMode">0x0</data>
+ <counters>
+  <counter format="cntr" graphic="0xf8c" name="Sulfurous Ash" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-2" graphic="0xf7b" name="Blood Moss" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-3" graphic="0xf8d" name="Spiders' Silk" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-4" graphic="0xf88" name="Nightshade" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-5" graphic="0xf86" name="Mandrake Root" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-6" graphic="0xf7a" name="Black Pearl" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-7" graphic="0xf85" name="Ginseng" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-8" graphic="0xf84" name="Garlic" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-9" graphic="0xe21" name="clean bandage" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-10" graphic="0xf07" name="Orange Potion" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-11" graphic="0xf0c" name="Yellow Potion" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-12" graphic="0xf09" name="White Potion" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-13" graphic="0xf0b" name="Red Potion" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-14" graphic="0xf0d" name="Purple Potion" image="True" color="0x0" enabled="True"/>
+  <counter format="cntr-15" graphic="0xeed" name="gold coin" image="True" color="0x0" enabled="True"/>
+ </counters>
+ <scavenger enabled="False"/>
+ <autosearchexemptions>
+  <exemption group="Pouch"/>
+ </autosearchexemptions>
+ <objects>
+  <obj name="axe">0x40000593</obj>
+  <obj name="found">0x40000593</obj>
+  <obj name="logs">0x40000e1e</obj>
+ </objects>
+ <hotkeys>
+  <hotkey param="Dismount" key="0x38" action="macro.play" pass="False"/>
+  <hotkey param="Mount" key="0x39" action="macro.play" pass="False"/>
+  <hotkey param="Recall" key="0x70" action="macro.play" pass="False"/>
+  <hotkey param="Trash" key="0x854" action="macro.play" pass="False"/>
+  <hotkey param="Lock" key="0x44c" action="macro.play" pass="False"/>
+  <hotkey param="Secure" key="0x453" action="macro.play" pass="False"/>
+  <hotkey param="Moongate" key="0x847" action="macro.play" pass="False"/>
+  <hotkey param="Leave" key="0x84c" action="macro.play" pass="False"/>
+  <hotkey param="Release" key="0x452" action="macro.play" pass="False"/>
+  <hotkey key="0x30" action="targeting.set.mount" pass="False"/>
+  <hotkey key="0x84d" action="skills.meditation" pass="False"/>
+  <hotkey key="0x848" action="skills.hiding" pass="False"/>
+  <hotkey key="0x101" action="agents.dress.2hand" pass="False"/>
+  <hotkey key="0x102" action="agents.dress.1hand" pass="False"/>
+  <hotkey key="0x4" action="targeting.target.last" pass="False"/>
+  <hotkey key="0x22" action="combat.consume.potions.explosion" pass="False"/>
+  <hotkey key="0x24" action="combat.consume.potions.cure" pass="False"/>
+  <hotkey key="0x23" action="combat.consume.potions.heal" pass="False"/>
+  <hotkey key="0x21" action="combat.consume.potions.refresh" pass="False"/>
+  <hotkey key="0x104" action="combat.bandage.self" pass="False"/>
+  <hotkey key="0x0" action="combat.attack.last" pass="False"/>
+  <hotkey key="0x103" action="targeting.target.self" pass="False"/>
+  <hotkey key="0x6e" action="spells.magery.magicarrow" pass="False"/>
+  <hotkey key="0x62" action="spells.magery.heal" pass="False"/>
+  <hotkey key="0x61" action="spells.magery.cure" pass="False"/>
+  <hotkey key="0x63" action="spells.magery.greaterheal" pass="False"/>
+  <hotkey key="0x64" action="spells.magery.poison" pass="False"/>
+  <hotkey key="0x65" action="spells.magery.lightning" pass="False"/>
+  <hotkey key="0x66" action="spells.magery.explosion" pass="False"/>
+  <hotkey key="0x67" action="spells.magery.energybolt" pass="False"/>
+  <hotkey key="0x68" action="spells.magery.flamestrike" pass="False"/>
+  <hotkey key="0x69" action="spells.magery.paralyze" pass="False"/>
+  <hotkey key="0x6b" action="spells.magery.dispel" pass="False"/>
+  <hotkey key="0xd" action="spells.magery.reveal" pass="False"/>
+ </hotkeys>
+ <macros>
+  <macro loop="False" interrupt="True" name="Dismount">useobject 'self';msg 'all kill';</macro>
+  <macro loop="False" interrupt="True" name="Mount">msg 'all follow me';useobject 'mount';</macro>
+  <macro loop="False" interrupt="True" name="Recall">msg 'all follow me';useobject 0x400215e3;waitforgump 0x554b87f3 15000;replygump 0x554b87f3 32;</macro>
+  <macro loop="False" interrupt="True" name="Trash">msg 'I wish to place a trash barrel';</macro>
+  <macro loop="False" interrupt="True" name="Lock">msg 'I wish to lock this down';</macro>
+  <macro loop="False" interrupt="True" name="Secure">msg 'I wish to secure this';</macro>
+  <macro loop="False" interrupt="True" name="Moongate">usetype '0xf6c' 'any' 'ground' '2';waitforgump 'any' 15000;replygump 0xdd8b146a 1;</macro>
+  <macro loop="False" interrupt="True" name="Leave">waitforcontext 'self' 3 15000;</macro>
+  <macro loop="False" interrupt="True" name="Release">msg 'I wish to release this';</macro>
+ </macros>
+ <autoloot>
+  <enabled>False</enabled>
+  <container>0xffffffff</container>
+  <guards>False</guards>
+ </autoloot>
+ <spellgrid/>
+ <organizer/>
+ <vendors>
+  <buystate list="" enabled="False"/>
+  <sellstate list="" enabled="False"/>
+ </vendors>
+ <dresslist name="1Hand" container="0x0">
+  <item layer="2">0x40001346</item>
+ </dresslist>
+ <dresslist name="2Hand" container="0x0">
+  <item layer="2">0x40001a7b</item>
+ </dresslist>
+</profile>

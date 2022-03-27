@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CharacterSettings>
+    <Version Value="1.3" />
+    <Interface custom_ui_scale="0.846939" custom_generic_gump_scale="1.062000">
+        <Tooltips enabled="true" />
+        <PartyInvitePopUp enabled="true" />
+        <TipoftheDay enabled="false" />
+        <OverheadChatFadeDelay index="2" />
+        <SpeechHue hue="52" />
+        <LegacyChat enabled="false" />
+        <LegacyContainers enabled="false" />
+        <LegacyPaperdolls enabled="false" />
+        <ShowChatWindow enabled="true" />
+        <OverheadChat enabled="true" />
+        <ScannedLegacyMacros enabled="true" />
+        <QueriedLegacySettings enabled="true" />
+        <ChatChannel name="Help" />
+        <CameraZoom Value="11.4200" />
+        <Containers otherView="Grid" corpseView="Grid">
+            <Container id="1073783979" view="Grid" />
+        </Containers>
+        <MapState mode="hidden" />
+        <MenuBarState mode="maximized" />
+        <OpenContainers>1073783979</OpenContainers>
+        <OpenPaperdolls></OpenPaperdolls>
+        <OpenWindows></OpenWindows>
+        <SkillsWindow ShowModified="false" ShowCaps="false" />
+        <WindowSettings>
+            <WindowPositions name="ResizeWindow" x="270.000000" y="4.000000" width="1993.852783" height="993.626221" />
+            <WindowPositions name="CharacterSheet" x="741.000000" y="186.000000" />
+            <WindowPositions name="CharacterAbilities" x="620.000000" y="0.000000" />
+            <WindowPositions name="SkillsWindow" x="981.000000" y="121.000000" />
+            <WindowPositions name="MacroWindow" x="323.000000" y="267.000000" />
+            <WindowPositions name="StatusWindow" x="-1.000000" y="5.000000" />
+            <WindowPositions name="AdvancedStatusWindowHP" x="0.000000" y="796.000000" />
+            <WindowPositions name="AdvancedStatusWindowMANA" x="1165.000000" y="796.000000" />
+            <WindowPositions name="AdvancedStatusWindowSTAM" x="357.000000" y="834.000000" />
+            <WindowPositions name="TargetWindow" x="1151.000000" y="1132.000000" />
+            <WindowPositions name="ActionsWindow" x="1206.000000" y="269.000000" />
+            <WindowPositions name="MapWindow" x="939.000000" y="0.000000" width="400.000000" height="400.000000" />
+            <WindowPositions name="SkillsInfo" x="1083.000000" y="182.000000" />
+            <WindowPositions name="OrganizerWindow" x="313.000000" y="202.000000" width="740.000000" height="620.000000" />
+            <WindowPositions name="ContainerSearchWindow" x="465.000000" y="197.000000" />
+            <WindowPositions name="PetWindow" x="2.000000" y="258.000000" />
+            <WindowPositions name="MobilesOnScreenWindow" x="4.000000" y="364.000000" />
+            <WindowPositions name="Compass" x="1023.000000" y="0.000000" />
+            <WindowPositions name="MapFindWindow" x="465.000000" y="197.000000" />
+            <WindowPositions name="ProfileWindow" x="483.000000" y="262.000000" />
+            <WindowPositions name="PropertiesInfoWindow" x="465.000000" y="197.000000" />
+            <WindowPositions name="WarShield" x="951.000000" y="806.000000" />
+            <WindowPositions name="CrystalPortal" x="425.000000" y="82.000000" width="400.000000" height="520.000000" />
+            <WindowPositions name="TipoftheDayWindow" x="325.000000" y="262.000000" />
+            <WindowPositions name="Hotbar1" x="1437.000000" y="1158.000000" width="620.000000" height="50.000000" />
+            <WindowPositions name="AdvancedBuffGood" x="1141.000000" y="1066.000000" />
+            <WindowPositions name="AdvancedBuffEvil" x="1359.000000" y="1066.000000" />
+            <WindowPositions name="Hotbar2" x="2267.000000" y="3.000000" width="50.000000" height="620.000000" />
+            <WindowPositions name="Hotbar3" x="531.000000" y="1156.000000" width="620.000000" height="50.000000" />
+            <WindowPositions name="GreyDockspot" x="200.000000" y="200.000000" />
+            <WindowPositions name="GreenDockspot" x="200.000000" y="200.000000" />
+            <WindowPositions name="YellowDockspot" x="200.000000" y="200.000000" />
+            <WindowPositions name="OrangeDockspot" x="200.000000" y="200.000000" />
+            <WindowPositions name="BlueDockspot" x="200.000000" y="200.000000" />
+            <WindowPositions name="RedDockspot" x="200.000000" y="200.000000" />
+            <WindowPositions name="ContainerWindow_1073783979" x="1854.000000" y="515.000000" width="457.000000" height="408.000000" />
+            <WindowPositions name="PaperdollWindow20340" x="1524.000000" y="343.000000" />
+            <WindowPositions name="PaperdollOthers" x="-1.000000" y="0.000000" />
+            <WindowPositions name="LEGACY_Runebook_GUMP" x="824.000000" y="392.000000" />
+        </WindowSettings>
+        <Hotbars>
+            <Hotbar id="1" locked="false">
+                <HotbarItems />
+                <Keybindings>
+                    <Keybinding slot="1" key="Left Alt+1" />
+                    <Keybinding slot="2" key="Left Alt+2" />
+                    <Keybinding slot="3" key="Left Alt+3" />
+                    <Keybinding slot="4" key="Left Alt+4" />
+                    <Keybinding slot="5" key="Left Alt+5" />
+                    <Keybinding slot="6" key="Left Alt+6" />
+                    <Keybinding slot="7" key="Left Alt+7" />
+                    <Keybinding slot="8" key="Left Alt+8" />
+                    <Keybinding slot="9" key="Left Alt+9" />
+                    <Keybinding slot="10" key="Left Alt+0" />
+                    <Keybinding slot="11" key="Left Alt+-" />
+                    <Keybinding slot="12" key="Left Alt+=" />
+                </Keybindings>
+            </Hotbar>
+            <Hotbar id="2" locked="false">
+                <HotbarItems>
+                    <HotbarItem itemIndex="1">
+                        <UserAction type="UserCommand" id="5006" iconId="860006" targetType="Cursor" text="script Actions.TogglePaperdollWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="2">
+                        <UserAction type="UserCommand" id="5007" iconId="860007" targetType="Cursor" text="script Actions.ToggleSkillsWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="3">
+                        <UserAction type="UserCommand" id="5003" iconId="860003" targetType="Cursor" text="script Actions.ToggleQuestWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="4">
+                        <UserAction type="UserCommand" id="5004" iconId="860004" targetType="Cursor" text="script Actions.ToggleVirtuesWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="5">
+                        <UserAction type="UserCommand" id="5005" iconId="860005" targetType="Cursor" text="script Actions.ToggleGuildWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="6">
+                        <UserAction type="UserCommand" id="5008" iconId="860008" targetType="Cursor" text="script Actions.ToggleChatWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="7">
+                        <UserAction type="UserCommand" id="5001" iconId="860001" targetType="Cursor" text="script Actions.ToggleMapWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="8">
+                        <UserAction type="UserCommand" id="5002" iconId="860002" targetType="Cursor" text="script Actions.ToggleMainMenu()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="9">
+                        <UserAction type="UserCommand" id="5014" iconId="860014" targetType="Cursor" text="script Actions.ToggleActions()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="10">
+                        <UserAction type="UserCommand" id="5015" iconId="860015" targetType="Cursor" text="script Actions.ToggleMacros()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="11">
+                        <UserAction type="UserCommand" id="5017" iconId="860017" targetType="Cursor" text="script Actions.ToggleUOStoreWindow()" />
+                    </HotbarItem>
+                    <HotbarItem itemIndex="12">
+                        <UserAction type="UserCommand" id="5011" iconId="860011" targetType="Cursor" text="script Actions.ToggleInventoryWindow()" />
+                    </HotbarItem>
+                </HotbarItems>
+                <Keybindings>
+                    <Keybinding slot="1" key="Left Alt+C" />
+                    <Keybinding slot="2" key="Right Alt+K" />
+                    <Keybinding slot="12" key="Right Alt+I" />
+                </Keybindings>
+            </Hotbar>
+            <Hotbar id="3" locked="false">
+                <HotbarItems />
+                <Keybindings>
+                    <Keybinding slot="1" key="1" />
+                    <Keybinding slot="2" key="2" />
+                    <Keybinding slot="3" key="3" />
+                    <Keybinding slot="4" key="4" />
+                    <Keybinding slot="5" key="5" />
+                    <Keybinding slot="6" key="6" />
+                    <Keybinding slot="7" key="7" />
+                    <Keybinding slot="8" key="8" />
+                    <Keybinding slot="9" key="9" />
+                    <Keybinding slot="10" key="0" />
+                    <Keybinding slot="11" key="-" />
+                    <Keybinding slot="12" key="=" />
+                </Keybindings>
+            </Hotbar>
+        </Hotbars>
+        <Macros>
+            <UserAction type="Macro" id="1" iconId="2025" name="Hiding" repeatEnabled="false" repeatCount="2" binding="Left Alt+H">
+                <UserAction type="UseSkill" id="21" iconId="2025" targetType="Cursor" />
+            </UserAction>
+            <UserAction type="Macro" id="2" iconId="2033" name="Meditation" repeatEnabled="false" repeatCount="2" binding="Left Alt+M">
+                <UserAction type="UseSkill" id="46" iconId="2033" targetType="Cursor" />
+            </UserAction>
+            <UserAction type="Macro" id="4" iconId="855020" name="Trash Barrel" repeatEnabled="false" repeatCount="2" binding="Left Alt+T">
+                <UserAction type="Say" id="5115" iconId="855020" targetType="Cursor" text="I Wish To Place A Trash Barrel" />
+            </UserAction>
+            <UserAction type="Macro" id="5" iconId="875502" name="Leave House" repeatEnabled="false" repeatCount="2" binding="Right Alt+L">
+                <UserAction type="UserCommand" id="5902" iconId="875502" targetType="Cursor" text="script Actions.LeaveHouse()" />
+            </UserAction>
+            <UserAction type="Macro" id="6" iconId="641" name="Door &amp; Bandage Self" repeatEnabled="false" repeatCount="2" binding="Space">
+                <UserAction type="OpenDoor" id="0" iconId="641" targetType="Cursor" />
+                <UserAction type="BandageSelf" id="0" iconId="793" targetType="Cursor" />
+            </UserAction>
+            <UserAction type="Macro" id="3" iconId="856002" name="Cure Potion" repeatEnabled="false" repeatCount="2" binding="">
+                <UserAction type="UseObjectType" id="252116992" iconId="3847" targetType="Cursor" iconObjectType="0" iconObjectHue="0" />
+            </UserAction>
+            <UserAction type="Macro" id="7" iconId="856001" name="Heal Potion" repeatEnabled="false" repeatCount="2" binding="">
+                <UserAction type="UseObjectType" id="252444672" iconId="3852" targetType="Cursor" iconObjectType="0" iconObjectHue="0" />
+            </UserAction>
+            <UserAction type="Macro" id="8" iconId="856007" name="Refresh Potion" repeatEnabled="false" repeatCount="2" binding="">
+                <UserAction type="UseObjectType" id="252379136" iconId="3851" targetType="Cursor" iconObjectType="0" iconObjectHue="0" />
+            </UserAction>
+            <UserAction type="Macro" id="9" iconId="856010" name="Agility Potion" repeatEnabled="false" repeatCount="2" binding="">
+                <UserAction type="UseObjectType" id="252182528" iconId="3848" targetType="Cursor" iconObjectType="0" iconObjectHue="0" />
+            </UserAction>
+            <UserAction type="Macro" id="10" iconId="856016" name="Strength Potion" repeatEnabled="false" repeatCount="2" binding="">
+                <UserAction type="UseObjectType" id="252575744" iconId="3854" targetType="Cursor" iconObjectType="0" iconObjectHue="0" />
+            </UserAction>
+            <UserAction type="Macro" id="11" iconId="856006" name="Deadly Poison Potion" repeatEnabled="false" repeatCount="2" binding="">
+                <UserAction type="UseObjectType" id="252313600" iconId="3850" targetType="Cursor" iconObjectType="0" iconObjectHue="0" />
+                <UserAction type="WaitForTargetCursor" id="0" iconId="618" targetType="Cursor" />
+            </UserAction>
+            <UserAction type="Macro" id="12" iconId="715" name="Lock Down" repeatEnabled="false" repeatCount="2" binding="Right Shift+L">
+                <UserAction type="Say" id="5114" iconId="715" targetType="Cursor" text="I Wish To Lock This Down" />
+            </UserAction>
+            <UserAction type="Macro" id="13" iconId="714" name="Release" repeatEnabled="false" repeatCount="2" binding="Left Shift+R">
+                <UserAction type="Say" id="5113" iconId="714" targetType="Cursor" text="I Wish To Release This" />
+            </UserAction>
+            <UserAction type="Macro" id="14" iconId="713" name="Secure" repeatEnabled="false" repeatCount="2" binding="Left Shift+S">
+                <UserAction type="Say" id="5112" iconId="713" targetType="Cursor" text="I Wish To Secure This" />
+            </UserAction>
+        </Macros>
+        <KeyBindings>
+            <KeyBinding action="CANCEL" key="Escape" />
+            <KeyBinding action="FORWARD" key="Up" />
+            <KeyBinding action="BACKWARD" key="Down" />
+            <KeyBinding action="LEFT" key="Left" />
+            <KeyBinding action="RIGHT" key="Right" />
+            <KeyBinding action="MELEE_ATTACK" key="Tab" />
+            <KeyBinding action="USE_PRIMARY_ATTACK" key="Left Alt+E" />
+            <KeyBinding action="USE_SECONDARY_ATTACK" key="Left Alt+D" />
+            <KeyBinding action="NEXT_GROUP_TARGET" key="" />
+            <KeyBinding action="NEXT_ENEMY_TARGET" key="Mouse 3" />
+            <KeyBinding action="NEXT_FRIENDLY_TARGET" key="" />
+            <KeyBinding action="NEXT_FOLLOWER_TARGET" key="" />
+            <KeyBinding action="NEXT_OBJECT_TARGET" key="" />
+            <KeyBinding action="NEXT_TARGET" key="" />
+            <KeyBinding action="PREVIOUS_GROUP_TARGET" key="" />
+            <KeyBinding action="PREVIOUS_ENEMY_TARGET" key="" />
+            <KeyBinding action="PREVIOUS_FRIENDLY_TARGET" key="" />
+            <KeyBinding action="PREVIOUS_FOLLOWER_TARGET" key="" />
+            <KeyBinding action="PREVIOUS_OBJECT_TARGET" key="" />
+            <KeyBinding action="PREVIOUS_TARGET" key="" />
+            <KeyBinding action="NEAREST_GROUP_TARGET" key="" />
+            <KeyBinding action="NEAREST_ENEMY_TARGET" key="" />
+            <KeyBinding action="NEAREST_FRIENDLY_TARGET" key="" />
+            <KeyBinding action="NEAREST_FOLLOWER_TARGET" key="" />
+            <KeyBinding action="NEAREST_OBJECT_TARGET" key="" />
+            <KeyBinding action="NEAREST_TARGET" key="" />
+            <KeyBinding action="TARGET_SELF" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_1" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_2" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_3" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_4" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_5" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_6" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_7" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_8" key="" />
+            <KeyBinding action="TARGET_GROUP_MEMBER_9" key="" />
+            <KeyBinding action="CURSOR_TARGET_CURRENT" key="" />
+            <KeyBinding action="CURSOR_TARGET_LAST" key="" />
+            <KeyBinding action="CURSOR_TARGET_SELF" key="" />
+            <KeyBinding action="CYCLE_LAST_CURSOR_TARGET" key="" />
+            <KeyBinding action="CLEAR_TARGET_QUEUE" key="" />
+            <KeyBinding action="PAPERDOLL_CHARACTER_WINDOW" key="Left Alt+P" />
+            <KeyBinding action="BACKPACK_WINDOW" key="Left Alt+I" />
+            <KeyBinding action="SKILLS_WINDOW" key="Left Alt+K" />
+            <KeyBinding action="WORLD_MAP_WINDOW" key="Left Alt+R" />
+            <KeyBinding action="QUEST_LOG_WINDOW" key="Left Alt+L" />
+            <KeyBinding action="TOGGLE_ALWAYS_RUN" key="" />
+            <KeyBinding action="ZOOM_IN" key="Left Alt+Num Pad: Plus" />
+            <KeyBinding action="ZOOM_OUT" key="Left Alt+Num Pad: -" />
+            <KeyBinding action="ZOOM_RESET" key="Left Alt+*" />
+            <KeyBinding action="SCREENSHOT" key="Print Screen" />
+            <KeyBinding action="TOGGLE_UI" key="Left Alt+Left Shift+A" />
+            <KeyBinding action="RELOAD_UI" key="Left Control+R" />
+            <KeyBinding action="TOGGLE_CIRCLE_OF_TRANSPARENCY" key="Left Control+C" />
+            <KeyBinding action="FORWARD_TURN" key="Left Control+Up" />
+            <KeyBinding action="BACKWARD_TURN" key="Left Control+Down" />
+            <KeyBinding action="LEFT_TURN" key="Left Control+Left" />
+            <KeyBinding action="RIGHT_TURN" key="Left Control+Right" />
+            <KeyBinding action="CYCLE_CHAT_FORWARD" key="Left Control+W" />
+            <KeyBinding action="CYCLE_CHAT_BACKWARD" key="Left Control+Q" />
+            <KeyBinding action="QUIT_GAME" key="" />
+            <KeyBinding action="LOG_OUT" key="" />
+        </KeyBindings>
+        <MouseOptions>
+            <MouseScrollWheelUp action="Zoom In" />
+            <MouseScrollWheelDown action="Zoom Out" />
+        </MouseOptions>
+        <Chat fade="true" log="false" visible_time="60.00" scroll_limit="500" />
+        <CustomSkills>
+            <CustomSkill value="40" />
+            <CustomSkill value="18" />
+            <CustomSkill value="51" />
+            <CustomSkill value="42" />
+            <CustomSkill value="23" />
+            <CustomSkill value="2" />
+            <CustomSkill value="13" />
+        </CustomSkills>
+    </Interface>
+    <Options>
+        <AlwaysRun enabled="false" />
+        <EnableAutorun enabled="true" />
+        <EnablePathfinding enabled="true" />
+        <CircleOfTranspareny enabled="false" />
+        <QueryBeforeCriminalAction enabled="false" />
+        <IgnoreMouseActionsOnSelf enabled="false" />
+        <ShowNames Value="Approaching" />
+        <AlwaysAttack enabled="true" />
+        <ShowCorpseNames enabled="false" />
+        <ShowStatusValues enabled="true" />
+        <HoldShiftToUnstack enabled="false" />
+        <ShiftRightClickContextMenus enabled="false" />
+        <targetQueueing enabled="false" />
+        <LegacyTargeting enabled="false" />
+        <ObjectHandle filter="Dynamic" size="-1" />
+        <MyLegacyBackpackType Value="Default" />
+        <UIVariables>
+            <BoolVar name="PetWindowHidden" value="false" />
+            <BoolVar name="MobilesOnScreenWindowVisible" value="true" />
+            <BoolVar name="FirstImprovement" value="true" />
+            <BoolVar name="StatusLabels" value="true" />
+            <BoolVar name="InitialPositions" value="true" />
+            <BoolVar name="PaperdollOpen" value="false" />
+            <BoolVar name="BackpackOpen" value="true" />
+            <BoolVar name="MoSFilter2" value="true" />
+            <BoolVar name="MoSFilter3" value="true" />
+            <BoolVar name="MoSFilter4" value="true" />
+            <BoolVar name="MoSFilter5" value="true" />
+            <BoolVar name="MoSFilter6" value="true" />
+            <BoolVar name="MoSFilter7" value="true" />
+            <BoolVar name="MoSFilter8" value="true" />
+            <BoolVar name="MoSFilter9" value="false" />
+            <BoolVar name="MoSFilter10" value="false" />
+            <BoolVar name="ShowMapCombos" value="false" />
+            <BoolVar name="BlockOthersPaperdoll" value="false" />
+            <BoolVar name="noWarOnPets" value="false" />
+            <BoolVar name="noWarOnParty" value="true" />
+            <BoolVar name="noWarOnFriendly" value="false" />
+            <BoolVar name="WarShield" value="false" />
+            <BoolVar name="AutoIgnoreCorpses" value="true" />
+            <BoolVar name="LowHPPercDisabled" value="false" />
+            <BoolVar name="LowPETHPPercDisabled" value="false" />
+            <BoolVar name="EnableIgnoreSummons" value="true" />
+            <BoolVar name="EnableSnapping" value="true" />
+            <BoolVar name="ToggleContentsInfo" value="false" />
+            <BoolVar name="GridLegacy" value="true" />
+            <BoolVar name="EnableContainerGrid" value="true" />
+            <BoolVar name="AlternateGrid" value="false" />
+            <BoolVar name="ExtraBrightContainers" value="false" />
+            <BoolVar name="StatusButtons" value="true" />
+            <BoolVar name="AuraEnabled" value="true" />
+            <BoolVar name="EnableMobileArrow" value="false" />
+            <BoolVar name="LegacyCloseStyle" value="false" />
+            <BoolVar name="PetLegacyCloseStyle" value="false" />
+            <BoolVar name="ShowCloseExtract" value="true" />
+            <BoolVar name="HealthBarWod" value="true" />
+            <BoolVar name="clickableNames" value="true" />
+            <BoolVar name="DisableSpells" value="false" />
+            <BoolVar name="ShowSpellName" value="false" />
+            <BoolVar name="noPoisonOthers" value="true" />
+            <BoolVar name="TargetWindowLocked" value="true" />
+            <BoolVar name="StatusWindowLocked" value="true" />
+            <BoolVar name="PetWindowLocked" value="true" />
+            <BoolVar name="LockMobilesOnScreen" value="true" />
+            <BoolVar name="AdvancedBuffEvilLocked" value="true" />
+            <BoolVar name="AdvancedBuffGoodLocked" value="true" />
+            <BoolVar name="Hotbar3LockWithHandle" value="true" />
+            <BoolVar name="Hotbar1LockWithHandle" value="true" />
+            <BoolVar name="ResizeWindowLocked" value="true" />
+            <BoolVar name="Hotbar2LockWithHandle" value="true" />
+            <NumberVar name="ActionsWindowCurrentGroup" value="4.000000" />
+            <NumberVar name="MapWindowW" value="400.000000" />
+            <NumberVar name="MapWindowH" value="400.000000" />
+            <NumberVar name="MenuBar" value="2.000000" />
+            <NumberVar name="MobilesOnScreenUpdateLimit" value="1.000000" />
+            <NumberVar name="MobilesOnScreenOffset" value="0.000000" />
+            <NumberVar name="LowHPPerc" value="35.000000" />
+            <NumberVar name="LowPETHPPerc" value="35.000000" />
+            <NumberVar name="RedButton" value="29.000000" />
+            <NumberVar name="RedButton2" value="59.000000" />
+            <NumberVar name="RedButton3" value="0.000000" />
+            <NumberVar name="GreenButton" value="25.000000" />
+            <NumberVar name="GreenButton2" value="17.000000" />
+            <NumberVar name="GreenButton3" value="0.000000" />
+            <NumberVar name="BlueButton" value="44.000000" />
+            <NumberVar name="BlueButton2" value="6.000000" />
+            <NumberVar name="BlueButton3" value="0.000000" />
+            <NumberVar name="ScrollGrid1073782547" value="0.000000" />
+            <NumberVar name="ScrollGrid1073789758" value="0.000000" />
+            <NumberVar name="ScrollGrid1073785635" value="0.000000" />
+            <NumberVar name="ScrollGrid1073781827" value="702.000000" />
+            <NumberVar name="ScrollGrid1073792824" value="234.000000" />
+            <NumberVar name="ScrollGrid1073783979" value="0.000000" />
+            <ColorVar name="BaseGridColor" R="0.000000" G="0.000000" B="8.000000" A="255.000000" />
+        </UIVariables>
+    </Options>
+</CharacterSettings>
